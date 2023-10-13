@@ -1,2 +1,2 @@
 # primeraAplicacionSpringBoot
-Voy a realizar una CRUD de una aplicacion que simular a Spotify
+Voy a realizar una CRUD de una aplicacion que simula a Spotify
